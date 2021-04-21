@@ -25,7 +25,7 @@
     "node": ">=8.10.0"
   },
   "dependencies": {
-    "@lyra/block-content-to-html": "^0.2.6",
+    "@lyra/block-content-to-html": "^0.3.0",
     "@lyra/client": "^0.2.8",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
