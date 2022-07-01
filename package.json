@@ -30,7 +30,7 @@
     "express": "^4.16.4",
     "express-handlebars": "^3.0.2",
     "lodash.uniqueid": "^4.0.1",
-    "lost": "^8.3.1",
+    "lost": "^9.0.0",
     "moment": "^2.24.0",
     "postcss": "^7.0.14",
     "postcss-cssnext": "^3.1.0",
